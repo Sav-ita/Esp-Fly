@@ -1,0 +1,9 @@
+Thank you for considering to build my ESP-FLY Micro Drone project and choosing to use JLC's PCB assembly service to assemble the whole board for the drone.
+
+Unfortunately, some components on JLC's end may be out of stock, so it would be smarter to order plain PCBs and assemble the board from home the way I have done it in the video for my IMU + Motor Driver board.
+
+If you do want to proceed with outsourcing board assembly anyway, keep in mind not all components may be available at the time you're reading this, but the ones that are in stock can still be placed with the uploaded BOM file and Pick n' Place file (to their website). I've linked these files in the folders outside of this text document.
+
+Please also refer to the screenshots I posted when submitting your board for assembly by JLCPCB. You'll see that I did not manage to get all components sourced by JLCPCB for an assembly.
+
+Thanks for understanding!
